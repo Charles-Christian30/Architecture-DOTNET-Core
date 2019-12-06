@@ -1,0 +1,14 @@
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\bin\Debug\netcoreapp2.1\le_site.Repository.deps.json
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\bin\Debug\netcoreapp2.1\le_site.Repository.dll
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\bin\Debug\netcoreapp2.1\le_site.Repository.pdb
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\bin\Debug\netcoreapp2.1\le_site.Core.dll
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\bin\Debug\netcoreapp2.1\le_site.Data.dll
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\bin\Debug\netcoreapp2.1\le_site.Core.pdb
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\bin\Debug\netcoreapp2.1\le_site.Data.pdb
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\obj\Debug\netcoreapp2.1\le_site.Repository.csprojAssemblyReference.cache
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\obj\Debug\netcoreapp2.1\le_site.Repository.csproj.CoreCompileInputs.cache
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\obj\Debug\netcoreapp2.1\le_site.Repository.AssemblyInfoInputs.cache
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\obj\Debug\netcoreapp2.1\le_site.Repository.AssemblyInfo.cs
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\obj\Debug\netcoreapp2.1\le_site.Repository.csproj.CopyComplete
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\obj\Debug\netcoreapp2.1\le_site.Repository.dll
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Repository\obj\Debug\netcoreapp2.1\le_site.Repository.pdb

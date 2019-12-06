@@ -1,0 +1,12 @@
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\bin\Debug\netcoreapp2.1\le_site.Core.deps.json
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\bin\Debug\netcoreapp2.1\le_site.Core.dll
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\bin\Debug\netcoreapp2.1\le_site.Core.pdb
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\bin\Debug\netcoreapp2.1\le_site.Data.dll
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\bin\Debug\netcoreapp2.1\le_site.Data.pdb
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\obj\Debug\netcoreapp2.1\le_site.Core.csprojAssemblyReference.cache
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\obj\Debug\netcoreapp2.1\le_site.Core.csproj.CoreCompileInputs.cache
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\obj\Debug\netcoreapp2.1\le_site.Core.AssemblyInfoInputs.cache
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\obj\Debug\netcoreapp2.1\le_site.Core.AssemblyInfo.cs
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\obj\Debug\netcoreapp2.1\le_site.Core.csproj.CopyComplete
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\obj\Debug\netcoreapp2.1\le_site.Core.dll
+C:\Users\c.christian\Documents\Projet\Architecture-clen-le-vrai\le_site.web\le_site.Core\obj\Debug\netcoreapp2.1\le_site.Core.pdb
